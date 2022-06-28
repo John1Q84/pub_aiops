@@ -1,6 +1,4 @@
----
-layout: landing
----
+# ℹ Workshop Introduction
 
-# ℹ Amazon Lookout for Metrics 소개
+## INTRODUCTION TO AMAZON LOOKOUT FOR METRICS
 
