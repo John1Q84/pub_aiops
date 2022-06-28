@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [ℹ Amazon Lookout for Metrics 소개](README.md)
