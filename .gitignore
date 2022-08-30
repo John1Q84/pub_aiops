@@ -16,4 +16,4 @@ _book
 *.pdf
 
 # Terraform init folder
-.terraform/
+**/.terraform/*
